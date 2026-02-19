@@ -23,3 +23,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          ## 🐍 Minhas Contribuições
+
+![snake animation](https://github.com/mariauz/mariauz/blob/output/github-contribution-grid-snake.svg)
+
